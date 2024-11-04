@@ -1,3 +1,6 @@
 Carlos Ernesto Galvis González
 Edad: 18
 Aspiraciones: mejorar todas mis habilidades como programador y aprender el uso de nuevas herramientas
+Nos dejo subir la carpeta ya que en la carpeta haora hay un nuevo archivo, entonces deja hacer el commit
+
+Tenemos que tener cuidado con modificar achivos desde diferentes ubicaciones ya que puede generar conflictos. Ya que github no sabe con cual de los archivos quedarse.
